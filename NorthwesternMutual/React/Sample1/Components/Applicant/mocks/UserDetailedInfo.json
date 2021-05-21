@@ -1,0 +1,16 @@
+{
+  "id": "8e7429dd-89f7-478b-ba46-51b56a9c2123",
+  "firstName": "Igor",
+  "lastName": "Panggabean",
+  "email": "igorp@zulu.com",
+  "createdAt": "2020-07-25T15:21:50.599Z",
+  "updatedAt": "2020-07-25T15:21:50.599Z",
+  "metadatas": [
+    { "value": "Working", "metadata": { "key": "HOBBY", "label": "Hobby" } },
+    {
+      "value": "Samoan Island",
+      "metadata": { "key": "HOME", "label": "Home" }
+    },
+    { "value": "Yes", "metadata": { "key": "WORK", "label": "work" } }
+  ]
+}
